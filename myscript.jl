@@ -1,0 +1,3 @@
+
+using ScriptTest
+ScriptTest.greet()

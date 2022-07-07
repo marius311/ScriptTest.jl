@@ -1,0 +1,7 @@
+name = "ScriptTest"
+uuid = "34cafc75-cc2f-4d11-9bc0-a0d7063de661"
+authors = ["marius <mariusmillea@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+PackageCompiler = "9b87118b-4619-50d2-8e1e-99f35a4d4d9d"
